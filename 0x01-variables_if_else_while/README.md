@@ -1,1 +1,1 @@
-assign a random number to the variable n each time it is executed
+prints the alphabet in lowercase,followed by a new line
