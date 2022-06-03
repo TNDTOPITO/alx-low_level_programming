@@ -1,1 +1,1 @@
-prints all possible combinations of single-digit numbers,and commas andspaces
+prints all possible different combinations of two digits
