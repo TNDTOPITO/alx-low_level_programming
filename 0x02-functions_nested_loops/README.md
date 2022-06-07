@@ -1,1 +1,1 @@
-prints the alphabet, in lowercase
+prints the alphabet,in lowercase
