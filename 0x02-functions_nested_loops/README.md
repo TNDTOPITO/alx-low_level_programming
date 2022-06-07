@@ -1,1 +1,1 @@
-program that prints _putchar
+prints the sign of a number
