@@ -1,1 +1,1 @@
-prints all natural numbers from n to 98
+prints the n times table, starting with 0
