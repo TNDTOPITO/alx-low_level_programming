@@ -1,1 +1,1 @@
-prints an integer
+The numbers speak for themselves
