@@ -150,7 +150,6 @@ void print_magic(char *ptr)
 		printf(" %02x", ptr[bytes]);
 
 	printf("\n");
-
 }
 
 /**
